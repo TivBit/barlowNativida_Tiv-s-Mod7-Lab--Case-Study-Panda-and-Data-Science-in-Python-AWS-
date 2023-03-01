@@ -1,1 +1,3 @@
-jupyter
+upyter
+jupyter notebook 6.5.2
+anaconda-0.0.1.1
