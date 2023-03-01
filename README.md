@@ -1,5 +1,5 @@
 # barlowNativida_Tiv-s-Mod7-Lab--Case-Study-Panda-and-Data-Science-in-Python-AWS-
-About:
+About Notebook
 Lab 5: Analyze Data with Amazon Sagemaker, Jupyter Notebooks and Bokeh
 
 Bug Report:
