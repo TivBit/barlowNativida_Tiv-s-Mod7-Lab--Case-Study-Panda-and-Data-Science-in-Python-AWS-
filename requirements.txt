@@ -1,4 +1,4 @@
-upyter
+Jupyter
 jupyter notebook 6.5.2
 anaconda-0.0.1.1
 pandas==1.5.3
